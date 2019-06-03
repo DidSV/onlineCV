@@ -3,198 +3,151 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Serhii Didyk
+    tagline: QA Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    email: serhiididyk@gmail.com
+    linkedin: serhiididyk
+    github: DidSV
+    twitter: '@Did_94'
 
     languages:
-      - idiom: English
+      - idiom: Ukrainian
         level: Native
 
-      - idiom: French
-        level: Professional
+      - idiom: English
+        level: Intermediate
 
-      - idiom: Spanish
+      - idiom: Russian
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: Hiking
         link:
 
-      - item: Snowboarding
+      - item: Comics
         link:
 
-      - item: Cooking
+      - item: Sport
         link:
+
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
-
+      I am a QA Engineer with 3+ years experience in Testing. For certain time 
+      (about 1,5 year) I was a QA Lead of the QA Department in my previous company (Devlight).
+      Then I’ve switched to the biggest IT company in Ukraine – SoftServe.  I pay a lot of attention
+      to the quality of the product testing and processes of testing. I have high personal standards
+      and attention to details. My last project entered to the Google`s top of three best apps ("Nova Poshta")
+      in Ukraine. Also my last project was a professional graphic editing tool for vector and raster graphics
+      from the market leaders in this area. I helped them to release that soft on both most popular OS’s – MacOS and Windows.
+      I always try to do my work as perfect as it could be. I try to use Agile and Design thinking methodologies
+      in all my projects, because I believe that the best product is that one that people not only need use, but they
+      love to use it every day. I believe that only  methodical and strategic approaches for the work can make good products
+      really great.
+      
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+    - degree: MSc in Computerized and Robotized Engineering
+      university: Ivano-Frankivsk National Technical University Oil and Gas
+      time: 2017 - 2018
+      details:
 
-          - Bullet point
-          - Bullet point
+    - degree: BSc in Computerized Machine Building
+      university: Ivano-Frankivsk National Technical University Oil and Gas
+      time: 2012 - 2016
+      details:
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+    - degree: QA & QC
+      university: Ukietech
+      time: 2017 - 2017
+      details:
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: QA Engineer
+      time: 2018 - Present
+      company: SoftServe, Ukraine
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-
-          - Bullet point
-          - Bullet point
-
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        I'm working on testing big enterprise projects for famous world companies from the North America.
+        
+    - role: QA Lead
+      time: 2015 - 2018
+      company: Devlight, Ukraine
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
+        QA Lead of the QA Department in Devlight for more than 2,5 years.
+        Mentoring and teaching new generation of QA Engineers for company.
+        Creating and developing Test strategy for the whole company.
+          
+          
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-
+      
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: “Nova Poshta” client mobile app (Android\iOS)
+        link: "#https://itunes.apple.com/ua/app/%D0%BD%D0%BE%D0%B2%D0%B0-%D0%BF%D0%BE%D1%88%D1%82%D0%B0/id545980774?mt=8"
+        tagline: "Big mobile project on 2 most popular mobile OS's for the biggest private logistic company in the country.
+        The main goal of the app: to give a powerful tool for tracking and managing parcels for the client and create a strong 
+        info channel with analytic about client's behavior for the company. Over 2 million active users."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: ”Portmone” mobile app
+        link: "#https://play.google.com/store/apps/details?id=com.portmone2.android&hl=uk"
+        tagline: "Financial mobile app for paying wide verity of bills: from simple top-up mobile or money transfers till all
+        kinds of utility payments. Project developed for iOS and Android with specific customized design for each OS. The app
+        guarantee a high level of security for all user's data, by using passwords, PIN-codes, Fingerprint technologies and 
+        Face ID for iOS devices."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: GORDON NEWS
+        link: "#https://play.google.com/store/apps/details?id=com.gordon"
+        tagline: "An app for comfort reading news from different sections: medicine, fashion, politics, sport, etc. with the
+        ability to directly send new articles and news from anywhere in the world. Program propose not only text articles, 
+        but also video clips and talk shows."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Professional Vector Graphic Editing Application (desktop)
+        link: 
+        tagline: "Professional suit for creating vector and raster graphics. The application gives to artists and designers 
+        an opportunity to create and edit images with using newly technologies. The software is a robust graphics suite, 
+        providing many features for users to edit graphics: contrast adjustment, color balancing, adding special effects 
+        like borders to images, and it is capable of working with multiple layers and multiple pages
+        The goal of a project is to extend using of the product from OS Windows to different platforms (MacOS in 2019)"
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
+     
+          
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-
+      
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
+      - title: AUTOMATION OF PROCESS OF DESIGNING PRESS FORMS FOR CASTING OF THERMOPLASTS UNDER PRESSURE
+        authors: S. V. Didyk, R. T. Karpyk
+        conference: IFNTUOG, Ivano-Frankivsk, Ukraine, 2018
+        
+        
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Theory of Testing
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
+      - name: SCRUM methodology
+        level: 90%
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 90%
 
-      - name: Ruby on Rails
+      - name: SQL
+        level: 80%
+
+      - name: Engineering graphics
         level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
-
+        
+        
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
