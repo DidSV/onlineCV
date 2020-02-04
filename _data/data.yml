@@ -41,7 +41,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a QA Engineer with 3+ years experience in Testing. For certain time 
+      I am a QA Engineer with 4+ years experience in Testing. For certain time 
       (about 1,5 year) I was a QA Lead of the QA Department in my previous company (Devlight).
       Then I’ve switched to the biggest IT company in Ukraine – SoftServe.  I pay a lot of attention
       to the quality of the product testing and processes of testing. I have high personal standards
@@ -67,6 +67,11 @@ education:
     - degree: QA & QC
       university: Ukietech
       time: 2017 - 2017
+      details:
+      
+    - degree: HIPAA certified QA 
+      university: SoftServe certification center
+      time: 2019
       details:
 
 experiences:
@@ -116,9 +121,14 @@ projects:
         providing many features for users to edit graphics: contrast adjustment, color balancing, adding special effects 
         like borders to images, and it is capable of working with multiple layers and multiple pages
         The goal of a project is to extend using of the product from OS Windows to different platforms (MacOS in 2019)"
+        
+      - title: Electronic health records software (web)
+        link: 
+        tagline: Electronic health records software with prioritized task donuts, patient cards & physician dashboard 
+        to unify all roles of medician practice to improve clinical care while creating a more personal experience with patients.
+        Software from one of the leading US companies serving thousands of clinics in the US and around the world.
 
-     
-          
+               
 publications:
     title: Publications
     intro: |
